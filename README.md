@@ -1,4 +1,4 @@
-he code then defines two functions:
+The code then defines two functions:
 
 detect_text: This function detects text in an image using EasyOCR.
 draw_box: This function draws the bounding boxes and text on an image.
